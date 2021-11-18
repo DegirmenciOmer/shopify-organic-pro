@@ -1,0 +1,530 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/111A2702.jpg",
+            "text_position": "bottom_center",
+            "subheading": "Voor je baby of je kind",
+            "title": "Biologische producten het allerbeste",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/111A3055.jpg",
+            "text_position": "middle_center",
+            "subheading": "Duurzame kinderkleding",
+            "title": "GOTS gecertificeerde producten",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "74bf1dbd-f7d6-4c9e-8cab-eab2cf85d162": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/111A2851.jpg",
+            "text_position": "middle_center",
+            "subheading": "Eco, fair, organic",
+            "title": "Goed voor de mens, goed voor de aarde",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2",
+        "74bf1dbd-f7d6-4c9e-8cab-eab2cf85d162"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "biologische-kinderkleding",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-1"
+      ],
+      "settings": {
+        "subheading": "Kinderkleding",
+        "title": "Topjes",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2021-10-06_at_17.36.19_d069fe43-fd5a-4eb4-878f-2a364a40316b.png",
+            "tab_label": "NATUURLIJKE MATERIALEN",
+            "subheading": "DUURZAME BABY- EN KINDERMODE",
+            "title": "",
+            "content": "<p>OrganicPro vertrouwt op ecologische baby- en kinderkleding. Het doel bij de productie van biologische kleding is om een ​​duurzame en maatschappelijk verantwoorde productie te creëren van het gebruikte biologische katoen tot het afgewerkte kledingstuk, waaruit onze bijzondere producten uiteindelijk worden gemaakt. OrganicPro verkoopt gecertificeerd met het GOTS (Global Organic Textile Standard) textielzegel. Verdere details zijn te vinden op de GOTS-website.<\/p>",
+            "button_text": "GOTS-website",
+            "button_link": "https:\/\/global-standard.org"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a-close-up-of-green-wheat-sheaf.jpg",
+            "tab_label": "BioKatoen",
+            "subheading": "Biologische fairtrade kleding en textiel",
+            "title": "",
+            "content": "<p>Producten van OrganicPro betovert niet alleen met de hoge kwaliteit van het gebruikte biologische katoen, maar ook met zijn comfortabele snitten en vormen. <br\/><br\/>Baby's en kinderen voelen zich helemaal op hun gemak in biologische-kleding, alsof de gebruikte natuurlijke vezels hun tere huid flatteren.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16335644142670c583": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "duurzaamheid van ons ecosysteem",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=BhGFE8lb4zw&t=8s",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "shop-the-look": {
+      "type": "shop-the-look",
+      "disabled": true,
+      "blocks": {
+        "look-1": {
+          "type": "look",
+          "settings": {
+            "dot_type": "inverted",
+            "product_1": "",
+            "product_1_horizontal_position": 41,
+            "product_1_vertical_position": 41,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 46,
+            "product_2_vertical_position": 64,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 62,
+            "product_3_vertical_position": 50,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        },
+        "00546480-b4b7-425e-9706-a63f60fabb14": {
+          "type": "look",
+          "disabled": true,
+          "settings": {
+            "dot_type": "normal",
+            "product_1": "",
+            "product_1_horizontal_position": 30,
+            "product_1_vertical_position": 30,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 50,
+            "product_2_vertical_position": 50,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 70,
+            "product_3_vertical_position": 70,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        }
+      },
+      "block_order": [
+        "look-1",
+        "00546480-b4b7-425e-9706-a63f60fabb14"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "label": "Shop the looks"
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "blog": "nieuwste-blogs",
+        "subheading": "Blijf up-to-date",
+        "title": "WAAROM BIOLOGISCHE PRODUCTEN VOOR KINDEREN",
+        "articles_count": 3,
+        "stack_mobile": false,
+        "show_category": true,
+        "show_excerpt": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "image-with-text-block": {
+      "type": "image-with-text-block",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "Subheading",
+        "title": "Image with text block",
+        "content": "<p>Use block text to give your customers insight into your brand. Select impactful text that relates to your brand and story.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_position": "left",
+        "text_alignment": "center",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "biologische-kinderkleding",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "162d4a8c-d61e-49b5-b267-f1320111c74c": {
+          "type": "collection",
+          "settings": {
+            "collection": "topjes",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection-2",
+        "162d4a8c-d61e-49b5-b267-f1320111c74c",
+        "collection-3",
+        "collection-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "collage",
+        "subheading": "Alle Biologische",
+        "title": "COLLECTIES",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial-1": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "content": "Write some content about what they are saying about your store.",
+            "author": "John S."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "timeline": {
+      "type": "timeline",
+      "disabled": true,
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "label": "2000",
+            "title": "Your heading",
+            "content": "<p>Write content about your store<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "label": "2010",
+            "title": "Your heading",
+            "content": "<p>Write content about your store<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "label": "2020",
+            "title": "Your heading",
+            "content": "<p>Write content about your store<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3"
+      ],
+      "settings": {
+        "subheading": "Subheading",
+        "title": "Timeline",
+        "text_position": "middle",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "item_background": "rgba(0,0,0,0)",
+        "item_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "variant-picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true
+          }
+        }
+      },
+      "block_order": [
+        "variant-picker",
+        "quantity-selector",
+        "buy-buttons"
+      ],
+      "settings": {
+        "product": "",
+        "subheading": "Subheading",
+        "title": "Featured product",
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "primary_button_background": "rgba(0,0,0,0)",
+        "primary_button_text_color": "rgba(0,0,0,0)",
+        "secondary_button_background": "rgba(0,0,0,0)",
+        "secondary_button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "disabled": true,
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "title": "Shipping",
+            "content": "<p>Free shipping and returns - customs and duties taxes included<\/p>"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.<\/p>"
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.<\/p>"
+          }
+        },
+        "item-4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "title": "Contact us",
+            "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "item-4"
+      ],
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "Subscribe to our newsletter",
+        "content": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+        "text_position": "right",
+        "text_alignment": "left",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collections",
+    "image-with-text",
+    "16335644142670c583",
+    "shop-the-look",
+    "blog-posts",
+    "image-with-text-block",
+    "collection-list",
+    "testimonials",
+    "timeline",
+    "featured-product",
+    "text-with-icons",
+    "newsletter"
+  ]
+}
